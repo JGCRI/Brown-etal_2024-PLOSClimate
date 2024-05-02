@@ -4,7 +4,7 @@
 
 <!-- badges: end -->
 
-# Brown et al. 2023 
+# Brown et al. 2024 
 
 **Matilda v1.0: An R package for probabilistic climate projections using a reduced complexity climate model**
 
