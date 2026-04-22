@@ -9,6 +9,7 @@
 **Matilda v1.0: An R package for probabilistic climate projections using a reduced complexity climate model**
 
 **Target Journal**: *PLOS Climate*
+**doi**: https://doi.org/10.1371/journal.pclm.0000295
 
 Joseph K Brown*, Leeya Pressburger, Abigail Snyder, Kalyn Dorheim, Steven J Smith, Claudia Tebaldi, Ben Bond-Lamberty
 
